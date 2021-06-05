@@ -38,7 +38,7 @@
 <a href="https://charlezdouglas1.github.io/cit281-Lab6/">Lab 6</a> 
 
 
-<a href="https://charlezdouglas1.github.io/cit281-p7/">Project 7</a> - Lab 7
+<a href="https://charlezdouglas1.github.io/cit281-p7/">Project 7</a> - <a href="https://charlezdouglas1.github.io/cit281-Lab7/">Lab 7</a>
 
 <a href="https://charlezdouglas1.github.io/cit281-Lab8/">Lab 8</a> - 
 <a href="https://charlezdouglas1.github.io/cit281-Lab9/">Lab 9</a> 
